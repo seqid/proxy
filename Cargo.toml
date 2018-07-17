@@ -3,7 +3,6 @@ name = "proxy"
 description = "a tookit to improve website traffic using proxy"
 version = "0.1.0"
 authors = ["seqid <me@suiwenfeng.tk>"]
-license = 'MIT'
 license-file = 'LICENSE'
 
 [dependencies]
